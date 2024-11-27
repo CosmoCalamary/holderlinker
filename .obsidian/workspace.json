@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Page.md",
+                "file": "mainpage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Page"
+              "title": "mainpage"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mainpage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для mainpage"
             }
           },
           {
@@ -137,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "mainpage.md"
+              },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура mainpage"
             }
           }
         ]
@@ -165,40 +168,33 @@
     "type": "floating",
     "children": [
       {
-        "id": "78ce28b45b982999",
+        "id": "560ef06306332d64",
         "type": "window",
         "children": [
           {
-            "id": "deaf1c6f9ead375f",
+            "id": "7d8604a0747aa88c",
             "type": "tabs",
             "children": [
               {
-                "id": "bcca1e5fc38eab47",
+                "id": "933cdc14cb55f6ac",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "mainpage.md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "title": "Новая вкладка"
-                }
-              },
-              {
-                "id": "beef2bded2c9c6e0",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Новая вкладка"
+                  "title": "mainpage"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 527,
-        "y": 192,
+        "x": 510,
+        "y": 550,
         "width": 900,
         "height": 500,
         "maximize": false,
@@ -206,8 +202,9 @@
       }
     ]
   },
-  "active": "beef2bded2c9c6e0",
+  "active": "933cdc14cb55f6ac",
   "lastOpenFiles": [
+    "mainpage.md",
     "Main Page.md",
     "Main Page.html",
     "Добро пожаловать.md"
