@@ -1,0 +1,13 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Mulish,Circe",
+  "monospaceFontFamily": "GOST type B",
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "custom-callouts",
+    "perenos-strok",
+    "plug-ins-window-bigger",
+    "transparent-status-bar"
+  ]
+}

@@ -1,0 +1,10 @@
+/* Прозрачный статус бар */
+.status-bar:not(:hover) .status-bar-item {
+    opacity: 0.2;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  /* Editing */
+  .markdown-source-view.is-readable-line-width .CodeMirror {
+     max-width: 85%;
+  }

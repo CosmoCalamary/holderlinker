@@ -1,0 +1,16 @@
+.callout[data-callout="bookmark"] {
+    --callout-color: 162, 162, 50;
+    --callout-icon: lucide-bookmark;
+  }
+.callout[data-callout="idea"] {
+    --callout-color: 243, 243, 128;
+    --callout-icon: lucide-lightbulb;
+  }
+.callout[data-callout="video"] {
+    --callout-color: 204, 0, 0;
+    --callout-icon: lucide-youtube;
+  }
+.callout[data-callout="book"] {
+    --callout-color: 0, 153, 76;
+    --callout-icon: lucide-book;
+  }
